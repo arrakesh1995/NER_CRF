@@ -1,0 +1,7 @@
+.cache/
+.local/
+.ssh/
+.pylint.d/
+.vscode/
+.vscode-server/
+env/
